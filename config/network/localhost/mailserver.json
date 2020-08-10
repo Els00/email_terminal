@@ -1,9 +1,9 @@
 [
     {
-        "from": "Traveller",
+        "from": "Sybocorp Corporate Headquarters",
         "to": ["8A73B5", "a"],
-        "title": "Do not Open",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "title": "Employment Information",
+        "body": "Welcome to Sybocorp!  As of March 10, 2020, you are officially under contract with the Sybocorp Corporation. Exact details relating to your employment with us can be found in the digital contract that was sent to you shortly after you were hired. This message is simply a brief overview of that document, and will hopefully clear up any questions you have regarding your obligations to Sybocorp.  EMPLOYMENT RESTRICTIONS: While under contract with Sybocorp [until September 10, 2020] you are forbidden from entering into contractual agreements with ANY other corporation regarding your employment."
     },
     {
         "from": "Software",
