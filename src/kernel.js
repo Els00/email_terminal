@@ -29,6 +29,7 @@ function setHeader(msg = '') {
     <h2 style="letter-spacing: 4px">` + serverDatabase.serverName + `</h2>
     <p>Logged in: ` + serverDatabase.serverAddress + ` ( ` + date_final + ` ) </p>
     <p>Enter "help" for more information.</p>
+    <p>Thank you for choosing Sybocorp!</p>
     `
 	system.clear()
 	output([header, msg])
